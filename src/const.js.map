@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "const.js",
+  "sourceRoot": "",
+  "sources": [
+    "const.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA;;;;AAAA,IAAA;;AAKA,SAAA,GAAY,SAAA;;AAEV;;;;EAKA,IAAC,CAAA,IAAD,GAAQ;;AAER;;;;EAKA,IAAC,CAAA,KAAD,GAAS;AAdC;;AAiBZ,MAAM,CAAC,OAAP,GAAiB,IAAI"
+}

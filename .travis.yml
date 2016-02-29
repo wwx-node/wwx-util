@@ -1,0 +1,14 @@
+sudo: false
+language: node_js
+node_js:
+  - "5"
+  - "4"
+  - "0.12"
+  - "iojs"
+
+script:
+  - make clean && make build && make test
+
+notifications:
+  email:
+    - wwx_2012@live.com
